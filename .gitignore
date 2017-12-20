@@ -34,6 +34,8 @@ jsconfig.json
 
 #node
 node_modules/
+server.js
+package-lock.json
 
 # .xml filer generert av PINT #
 dependency-reduced-pom.xml
